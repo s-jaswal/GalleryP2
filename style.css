@@ -1,4 +1,11 @@
-.bg-hero-image{
+.bg-hero-image {
   background-image: url('https://picsum.photos/1300/500');
   background-position: center center;
+}
+
+body {
+  background-image: url('Bubbles\ Background.jpg');
+  background-size: cover; 
+  font-family: 'Fugaz One', sans-serif;
+
 }
